@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao perfil do Gustavo Rosa 😁
 
  <div>
    <a href="https://github.com/ogustavorosa">
@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Se quiser saber mais de mim, minhas redes sociais estão abaixo!
  
 <div> 
   <a href="><img src="https://></a>
